@@ -11,7 +11,7 @@ npm install -g poc-random-message
 # Usage
 
 ```bash
-random-msg
+poc-random-message
 ```
 
 # Contributing
