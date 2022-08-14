@@ -1,0 +1,24 @@
+{
+  "name": "poc-random-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Nicolas Carrillo Lopez <pandasoncode@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "poc-random-message": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandasoncode/npm-poc-random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pandasoncode/npm-poc-random-message/issues"
+  },
+  "homepage": "https://github.com/pandasoncode/npm-poc-random-message#readme"
+}
