@@ -15,7 +15,7 @@ poc-random-message
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/pandasoncode/npm-poc-random-message)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [poc-random-message](https://github.com/pandasoncode/npm-poc-random-message)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+poc-random-message is released under the [MIT License](https://opensource.org/licenses/MIT).
